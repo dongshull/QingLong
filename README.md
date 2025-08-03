@@ -1,4 +1,4 @@
-# 🐉 QingLong 青龙面板脚本管理 <img align="right" width="100" height="100" src="https://img.icons8.com/ios/100/dragon.png" alt="european-dragon">
+# 🐉 QingLong 青龙面板脚本管理 <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/Xiaoheizi1.png" alt="european-dragon">
 
 ![Version](https://img.shields.io/badge/version-2.11.3-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
